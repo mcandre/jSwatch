@@ -1,6 +1,4 @@
-# jSwatch
-
-Swatch Internet Time converter in Java
+# jSwatch - Swatch Internet Time converter in Java
 
 # EXAMPLE
 
