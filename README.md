@@ -4,13 +4,13 @@
 
 ```
 $ mvn package
-$ mvn exec:java -Dexec.mainClass=us.yellosoft.swatch.Swatch
+$ bin/swatch
 @105.32
 ```
 
 # REQUIREMENTS
 
-* [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 1.6+
+* [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 1.7+
 
 # CODE COVERAGE
 
