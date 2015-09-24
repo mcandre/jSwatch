@@ -1,4 +1,6 @@
 *.class
 Gemfile.lock
 target/
+build/
+.gradle/
 node_modules/
