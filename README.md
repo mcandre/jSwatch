@@ -17,7 +17,7 @@ $ bin/swatch
 
 * [Sonar](http://www.sonarqube.org/)
 * [Infer](http://fbinfer.com/)
-* [Ruby](https://www.ruby-lang.org/en/) 2+
+* [Ruby](https://www.ruby-lang.org/en/) 2.7+
 * [Python](https://www.python.org/) 3+
 
 # JAVADOCS
